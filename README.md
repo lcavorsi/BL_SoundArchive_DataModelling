@@ -1,5 +1,5 @@
 # [Data Modelling](https://github.com/lcavorsi/BL_SoundArchive_DataModelling)
-Creating a database for a British Library Sound Archive's collection 
+Creating a database for a British Library Sound Archive's collection <br>
 (Part of PGCert in 'Applied Data Science', Birkbeck University)
 
 ## Overview
